@@ -1,0 +1,7 @@
+C:\Users\rolan\source\repos\2tasks\2tasks\bin\Debug\2tasks.exe.config
+C:\Users\rolan\source\repos\2tasks\2tasks\bin\Debug\2tasks.exe
+C:\Users\rolan\source\repos\2tasks\2tasks\bin\Debug\2tasks.pdb
+C:\Users\rolan\source\repos\2tasks\2tasks\obj\Debug\2tasks.csproj.AssemblyReference.cache
+C:\Users\rolan\source\repos\2tasks\2tasks\obj\Debug\2tasks.csproj.CoreCompileInputs.cache
+C:\Users\rolan\source\repos\2tasks\2tasks\obj\Debug\2tasks.exe
+C:\Users\rolan\source\repos\2tasks\2tasks\obj\Debug\2tasks.pdb
